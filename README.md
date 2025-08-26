@@ -6,7 +6,7 @@
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> <li> 꾸준히 성장하는 개발자입니다.</li><li> 여러 사람과 어울리는 것을 좋아하고 협업에 자신 있습니다.</li><li> 많은 시간과 열정을 쏟아 부을 것이라고 자부합니다.</li> </div> <br>
     </div>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> 
     <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
           <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
           <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
@@ -17,13 +17,13 @@
           <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
           </div>
     </div>
-    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
+    <div style="text-align: left;"> <br>
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> 
     <div style="text-align: left;"> <a href=https://www.notion.so/LEE-CHAE-YEON-1a7c1584bb028025a16ceb1427bbb1e4?source=copy_link> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/LEE-CHAE-YEON-1a7c1584bb028025a16ceb1427bbb1e4?source=copy_link"> </a>
           </div>  <br> 
     <div style="text-align: left;">  </div> 
     </div>
-    <div style="text-align: left;"> 
+    <div style="text-align: left;"> <br>
         <h2 align="left">📧 Email 📧</h2>
 <p align="left">
   <Strong> lee24cy@sookmyung.ac.kr </Strong>
