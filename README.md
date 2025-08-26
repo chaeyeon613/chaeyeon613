@@ -20,7 +20,7 @@
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
     <div style="text-align: left;"> <a href=https://www.notion.so/LEE-CHAE-YEON-1a7c1584bb028025a16ceb1427bbb1e4?source=copy_link> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/LEE-CHAE-YEON-1a7c1584bb028025a16ceb1427bbb1e4?source=copy_link"> </a>
-         <a href=mailto:lee24cy@sookmyung.ac.kr> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:lee24cy@sookmyung.ac.kr"> </a>
+         <a href=mailto:[lee24cy@sookmyung.ac.kr](https://contacts.google.com/lee24cy@sookmyung.ac.kr?hl=ko)> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:lee24cy@sookmyung.ac.kr"> </a>
           </div>  <br> 
     <div style="text-align: left;">  </div> 
     </div>
