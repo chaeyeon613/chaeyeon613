@@ -3,7 +3,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> LEE, CHAEYEON </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> <li> 꾸준히 성장하는 개발자입니다.</li><li> 여러 사람과 어울리는 것을 좋아하고 협업에 자신 있습니다.</li><li> 많은 시간과 열정을 쏟아 부을 것이라고 자부합니다.</li> </div> <br>
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> </div> <br>
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> 
