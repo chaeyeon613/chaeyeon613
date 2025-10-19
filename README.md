@@ -23,11 +23,11 @@
     <div style="text-align: left;">  </div> 
     </div>
     <div style="text-align: left;"> <br>
-        <h2 align="left">📧 Email 📧</h2>
+        <h2 align="left">📧 Email </h2>
 <p align="left">
   <Strong> lee24cy@sookmyung.ac.kr </Strong>
 </p><br>
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📋 Stat 📋 </h2>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📋 Stat </h2>
     
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaeyeon613&show_icons=true&theme=radical)   
     
