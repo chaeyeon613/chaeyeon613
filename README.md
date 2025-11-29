@@ -18,13 +18,7 @@
     </div>
     <div style="text-align: left;"> <br>
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> 
-    <div style="text-align: left;"> <a href=https://www.notion.so/LEE-CHAE-YEON-1a7c1584bb028025a16ceb1427bbb1e4?source=copy_link> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/LEE-CHAE-YEON-1a7c1584bb028025a16ceb1427bbb1e4?source=copy_link"> </a>
-          </div>  <br> 
-    <div style="text-align: left;">  </div> 
-    </div>
-    <div style="text-align: left;"> <br>
-        <h2 align="left">📧 Email </h2>
-<p align="left">
+    <p align="left">
   <Strong> lee24cy@sookmyung.ac.kr </Strong>
 </p><br>
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📋 Stat </h2>
